@@ -2,7 +2,7 @@
 
 .bkgd{
     
-    background-image: url("../logorwm.png");
+    background-image: url("./logorwm.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-attachment: fixed;
